@@ -3,7 +3,7 @@ public class Main {
 
         System.out.println("G3HDSHJS");
         for (int i = 0; i < 10; i++) {
-            System.out.println(i);
+            System.out.println(5*5);
         }
 
     }
